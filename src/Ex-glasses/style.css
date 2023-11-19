@@ -1,0 +1,32 @@
+.img2{
+    position: fixed;
+    top:30%;
+    left: 0;
+    height:200px;
+    width: 200px;
+    
+}
+.glassesListItem{
+    float: right;
+    position: fixed;
+    top: 80%;
+    left: 22%;
+    justify-content: space-between;
+    align-items: center;
+}
+.glassesListItem img {
+    width: 10%;
+    height: 60px;
+
+}
+.glassesListItem img:hover{
+    cursor: pointer;
+}
+.showGlass{
+    position: fixed;
+    top: 37%;
+    left: 41px;
+    width: 120px;
+    height: 36px;
+    opacity: 0.8;
+}
